@@ -1,0 +1,10 @@
+---
+title: "HelloWorld"
+author: "Ayushi Batwara"
+date: "7/14/2020"
+output: html_document
+---
+
+## This is a markdown file
+
+Hello World! Hello to anyone who is reading this! I am excited to be learning!
